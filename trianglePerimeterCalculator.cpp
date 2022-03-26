@@ -26,6 +26,7 @@ int main() {
     perimetertriangle = (sideA + sideB + sideC);
     // output
 
-    std::cout << "\nYour Triangle Perimeter is " << perimetertriangle << " mm." << std::endl;
+    std::cout << "\nYour Triangle Perimeter is " << perimetertriangle << " mm."
+    << std::endl;
     std::cout << "\nDone." << std::endl;
 }
